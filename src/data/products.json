@@ -8,9 +8,9 @@
       "category": "anillos",
       "price": 5500,
       "unidades": 2200,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "Fiorever1.jpeg",
+      "img2": "Fiorever2.jpeg",
+      "img3": "Fiorever3.jpeg"
    },
    {
       "id": 3,
@@ -21,8 +21,8 @@
       "category": "anillos",
       "price": 3000,
       "unidades": 15,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
+      "img1": "Sunshine1.jpeg",
+      "img2": "Sunshine2.jpeg",
       "img3": "noimage.png"
    },
    {
@@ -34,9 +34,9 @@
       "category": "anillos",
       "price": 3500,
       "unidades": 23,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "DiamondFire1.jpeg",
+      "img2": "DiamondFire2.jpeg",
+      "img3": "DiamondFire3.jpeg"
    },
    {
       "id": 6,
@@ -47,9 +47,9 @@
       "category": "collares",
       "price": 2800,
       "unidades": 12,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "DivasDreamCollar1.jpeg",
+      "img2": "DivasDreamCollar2.jpeg",
+      "img3": "DivasDreamCollar3.jpeg"
    },
    {
       "id": 7,
@@ -60,9 +60,9 @@
       "category": "collares",
       "price": 3800,
       "unidades": 14,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "FioreverCollar1.jpeg",
+      "img2": "FioreverCollar2.jpeg",
+      "img3": "FioreverCollar3.jpeg"
    },
    {
       "id": 8,
@@ -73,9 +73,9 @@
       "category": "collares",
       "price": 2100,
       "unidades": 12,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "CirculoCuadradoCollar1.jpeg",
+      "img2": "CirculoCuadradoCollar2.jpeg",
+      "img3": "CirculoCuadradoCollar3.jpeg"
    },
    {
       "id": 9,
@@ -86,9 +86,9 @@
       "category": "collares",
       "price": 2200,
       "unidades": 15,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "EstrellaPlataCollar1.jpeg",
+      "img2": "EstrellaPlataCollar2.jpeg",
+      "img3": "EstrellaPlataCollar3.jpeg"
    },
    {
       "id": 10,
@@ -99,9 +99,9 @@
       "category": "collares",
       "price": 3200,
       "unidades": 12,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "EstrellaCorazonCollar1.jpeg",
+      "img2": "EstrellaCorazonCollar2.jpeg",
+      "img3": "EstrellaCorazonCollar3.jpeg"
    },
    {
       "id": 11,
@@ -112,9 +112,9 @@
       "category": "pulseras",
       "price": 2500,
       "unidades": 18,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "FioreverPulsera1.jpeg",
+      "img2": "FioreverPulsera2.jpeg",
+      "img3": "FioreverPulsera3.jpeg"
    },
    {
       "id": 12,
@@ -125,9 +125,9 @@
       "category": "pulseras",
       "price": 1800,
       "unidades": 22,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "PulseraBrisaAzul1.jpeg",
+      "img2": "PulseraBrisaAzul2.jpeg",
+      "img3": "PulseraBrisaAzul3.jpeg"
    },
    {
       "id": 13,
@@ -138,22 +138,9 @@
       "category": "pulseras",
       "price": 1200,
       "unidades": 12,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
-   },
-   {
-      "id": 14,
-      "name": "Estrella Brillante Pulsera",
-      "materials": "oro",
-      "size": "l",
-      "description": "Perfecto para hacer pilas o para crear estilos esbeltos y minimalistas, esta pulsera rígida de plata esterlina está esculpida en forma de V de Victoria. Está acentuado con circonios cúbicas transparentes que reflejan la luz para un toque de brillo sutil. Úsalo solo o apílalo con otros estilos de hueso de los deseos para una versión genial de las capas o con brazaletes rígidos redondos para agregar contraste",
-      "category": "pulseras",
-      "price": 2100,
-      "unidades": 13,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "EstrellaBrillante1.jpeg",
+      "img2": "EstrellaBrillante2.jpeg",
+      "img3": "EstrellaBrillante3.jpeg"
    },
    {
       "id": 15,
@@ -164,8 +151,8 @@
       "category": "pulseras",
       "price": 2800,
       "unidades": 9,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
+      "img1": "EternoLazo1.jpeg",
+      "img2": "EternoLazo2.jpeg",
       "img3": "noimage.png"
    },
    {
@@ -177,9 +164,9 @@
       "category": "aritos",
       "price": 2500,
       "unidades": 12,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "DivasDreamAros1.jpeg",
+      "img2": "DivasDreamAros2.jpeg",
+      "img3": "DivasDreamAros3.jpeg"
    },
    {
       "id": 17,
@@ -190,9 +177,9 @@
       "category": "aritos",
       "price": 3200,
       "unidades": 15,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "FioreverAros1.jpeg",
+      "img2": "FioreverAros2.jpeg",
+      "img3": "FioreverAros3.jpeg"
    },
    {
       "id": 18,
@@ -203,9 +190,9 @@
       "category": "aritos",
       "price": 2100,
       "unidades": 14,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "HaloCorazon1.jpeg",
+      "img2": "HaloCorazon2.jpeg",
+      "img3": "HaloCorazon3.jpeg"
    },
    {
       "id": 19,
@@ -216,9 +203,9 @@
       "category": "aritos",
       "price": 3100,
       "unidades": 12,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "NinfadeOro1.jpeg",
+      "img2": "NinfadeOro2.jpeg",
+      "img3": "NinfadeOro3.jpeg"
    },
    {
       "id": 20,
@@ -229,9 +216,9 @@
       "category": "aritos",
       "price": 3100,
       "unidades": 24,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "ArosTuBrillo1.jpeg",
+      "img2": "ArosTuBrillo2.jpeg",
+      "img3": "ArosTuBrillo3.jpeg"
    },
    {
       "id": 21,
@@ -242,9 +229,9 @@
       "category": "relojes",
       "price": 6500,
       "unidades": 4,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "DivasDreamReloj1.jpeg",
+      "img2": "DivasDreamReloj2.jpeg",
+      "img3": "DivasDreamReloj3.jpeg"
    },
    {
       "id": 22,
@@ -255,9 +242,9 @@
       "category": "relojes",
       "price": 5200,
       "unidades": 6,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "DivasDreamReloj1.jpeg",
+      "img2": "DivasDreamReloj2.jpeg",
+      "img3": "DivasDreamReloj3.jpeg"
    },
    {
       "id": 23,
@@ -268,9 +255,9 @@
       "category": "relojes",
       "price": 5100,
       "unidades": 6,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "SerpentiSeductori1.jpeg",
+      "img2": "SerpentiSeductori2.jpeg",
+      "img3": "SerpentiSeductori3.jpeg"
    },
    {
       "id": 24,
@@ -281,9 +268,9 @@
       "category": "relojes",
       "price": 5200,
       "unidades": 6,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "LuceaReloj1.jpeg",
+      "img2": "LuceaReloj2.jpeg",
+      "img3": "LuceaReloj3.jpeg"
    },
    {
       "id": 25,
@@ -294,8 +281,8 @@
       "category": "relojes",
       "price": 4200,
       "unidades": 9,
-      "img1": "noimage.png",
-      "img2": "noimage.png",
-      "img3": "noimage.png"
+      "img1": "CrystalFlower1.jpeg",
+      "img2": "CrystalFlower2.jpeg",
+      "img3": "CrystalFlower3.jpeg"
    }
 ]
